@@ -1,0 +1,95 @@
+UX significa user experience e é sobre a relação entre o usuário e um determinado 
+produto ou serviço.
+
+Nesse sentido, o UX é o responsável pelo planejamento e organização de como um 
+produto funciona para que seja fácil e agradável para o usuário final.
+
+Para isso, os objetivos do UX Design são:
+
+1-satisfazer as necessidades do usuário;
+2-ajudar a desenvolver produtos/serviços fáceis de usar;
+3-dar controle e liberdade para o usuário;
+4-surpreender e agradar.
+
+Dessa forma, o UX Design tem a função de proporcionar uma jornada mais fluída e 
+agradável, melhorando a interação e a experiência entre os usuários e as
+interfaces.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UI significa User Interface, o que geralmente se refere a interfaces gráficas 
+com as quais os usuários conseguem interagir.
+
+Dessa forma, UI Designers trabalham com o aspecto visual de um produto digital, 
+ou seja, o quão agradável é a estética da interface.
+
+Existem 3 tipos de formatos de interface: 
+
+Interfaces gráficas: os usuários interagem com as representações visuais em 
+um painel de controle. A área de trabalho de um computador é uma interface gráfica, 
+por exemplo;
+
+Interfaces de controle de voz: quando a interação acontece por voz, como com as 
+assistentes virtuais Siri ou Alexa;
+
+Interfaces gestuais: quando a interação acontece através de espaços em 3D e 
+movimentos corporais, como em jogos de realidade virtual.
+
+O papel de UI Designers:
+
+UI Design diz respeito a todos os aspectos visuais e elementos interativos de um produto digital, trabalhando com tipografia, cores, animações, botões e barras de 
+rolagem.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. O que faz um UI Designer?
+2. O que faz um UX Designer?
+3. Como anda o mercado brasileiro para UI Designers?
+4. Onde pode trabalhar um UI Designer 
+5. Quanto ganha um UI Designer e um UX Designer?
+6. Existe algum requisito para começar a aprender sobre UI design?
+7. Onde encontramos um UI Design?
+8. Qual a diferença entre UI e UX Designer?
+9. Web design e UI Design não são parecidos?
+10. Qual a importancia da prática em UI/UX?
+11. O que significa Design?
+12. Quando um processo de UX Design é implementado?
+13. O que é user flow (Fluxo de usuário)?
+14. Como implementar UX no dia-a-dia?
+15. Como implementar UI no dia-a-dia?
+
+Um UI Designer, ou Designer de Interface de Usuário, é responsável por projetar a aparência visual de uma interface digital, como websites, aplicativos móveis e software. Eles se concentram na criação de elementos gráficos, como botões, ícones, cores, tipografia e layout, garantindo que a interface seja atraente, funcional e fácil de usar.
+
+Um UX Designer, ou Designer de Experiência do Usuário, se concentra na experiência geral do usuário ao interagir com um produto ou serviço digital. Isso envolve entender as necessidades e desejos dos usuários, conduzir pesquisas, criar personas, desenvolver jornadas do usuário, prototipar interfaces e garantir que a interação seja intuitiva e eficiente.
+
+O mercado brasileiro para UI Designers tem sido promissor, especialmente com o crescimento contínuo da indústria de tecnologia e o aumento da demanda por aplicativos e sites. No entanto, a concorrência também é alta, e é importante ter habilidades sólidas e atualizadas, bem como um bom portfólio, para se destacar no mercado.
+
+Um UI Designer pode trabalhar em diversas áreas, incluindo empresas de tecnologia, agências de design, startups, agências de publicidade, departamentos de design interno em grandes empresas e como freelancer.
+
+Os salários de UI Designers e UX Designers podem variar amplamente dependendo da experiência, localização geográfica e da empresa. No Brasil, um profissional júnior pode ganhar em média de R$ 2.000 a R$ 5.000 por mês, enquanto um sênior pode ganhar de R$ 7.000 a R$ 15.000 ou mais por mês. Os UX Designers tendem a ter salários semelhantes, com algumas variações dependendo da empresa e do mercado.
+
+Não há requisitos formais para começar a aprender sobre UI design, mas é útil ter familiaridade com design gráfico, conhecimento em software de design como Adobe XD, Sketch, Figma ou similar, e uma compreensão básica de princípios de design. Além disso, estudar design de interface, tipografia e psicologia do usuário pode ser benéfico.
+
+Você pode encontrar UI Designs em uma variedade de lugares, incluindo websites, aplicativos móveis, software de computador, sistemas de automação, máquinas ATM, dispositivos médicos e muito mais. Basicamente, qualquer interface digital que você interage foi projetada por um UI Designer.
+
+A diferença entre UI (User Interface) e UX (User Experience) Designer é que o UI Designer se concentra na aparência visual e na disposição dos elementos da interface, enquanto o UX Designer se concentra na experiência geral do usuário, incluindo como o usuário se sente ao usar o produto ou serviço. Eles trabalham em conjunto para criar produtos digitais bem-sucedidos, com o UI Designer cuidando da estética e o UX Designer garantindo a usabilidade e a experiência do usuário.
+
+Web design e UI Design compartilham algumas semelhanças, pois ambos lidam com a criação de interfaces digitais. No entanto, o web design se concentra principalmente em projetar websites, enquanto o UI Design pode abranger uma variedade de plataformas, incluindo aplicativos móveis, software e muito mais. Além disso, o UI Design é mais específico em relação à aparência e interação dos elementos da interface.
+
+A prática em UI/UX é crucial para aprimorar suas habilidades. Quanto mais projetos você concluir e quanto mais feedback você receber, melhorará suas habilidades de design. Além disso, acompanhar as tendências de design, participar de grupos de discussão e conferências da área e continuar aprendendo são importantes para se manter relevante no campo.
+
+Design é o processo criativo de concepção e planejamento de objetos, sistemas, espaços e experiências com o objetivo de atender às necessidades e desejos humanos. Envolve a combinação de elementos estéticos, funcionais e contextuais para criar soluções que sejam eficazes, atraentes e significativas.
+
+Um processo de UX Design é implementado ao longo do ciclo de vida de um projeto, desde a pesquisa inicial até o lançamento e além. Isso envolve a identificação das necessidades dos usuários, a criação de protótipos, a realização de testes de usabilidade, a iteração com base no feedback e a garantia de que a experiência do usuário seja aprimorada continuamente.
+
+O user flow, ou fluxo de usuário, é uma representação visual do caminho que um usuário segue ao interagir com um produto ou serviço digital. Ele descreve as etapas que um usuário realiza, desde o início da interação até a conclusão de uma tarefa ou objetivo específico.
+
+Para implementar o UX no dia-a-dia, é importante incorporar a pesquisa de usuário em seus processos de design, criar personas para entender seu público-alvo, desenvolver protótipos para testar ideias e conduzir testes de usabilidade para identificar problemas e fazer melhorias.
+
+Para implementar o UI no dia-a-dia, você deve se concentrar em criar elementos visuais atraentes e funcionais para interfaces digitais. Isso inclui trabalhar com cores, tipografia, layout e elementos gráficos, bem como garantir a consistência em todo o projeto para criar uma experiência visualmente coesa para os usuários.
